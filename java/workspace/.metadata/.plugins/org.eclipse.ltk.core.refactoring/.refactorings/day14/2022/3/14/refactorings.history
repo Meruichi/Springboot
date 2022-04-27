@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;Static&apos; to &apos;day15/src/com.koreait.shop.board&apos;&#x0D;&#x0A;- Original project: &apos;day14&apos;&#x0D;&#x0A;- Destination element: &apos;day15/src/com.koreait.shop.board&apos;&#x0D;&#x0A;- Original element: &apos;day14/src/Static&apos;" description="Copy package" destination="=day15/src&lt;com.koreait.shop.board" element1="/src&lt;Static" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1648427386164" version="1.0"/>
+</session>

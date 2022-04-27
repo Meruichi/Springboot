@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;multiex.Main03&apos; to &apos;Main01&apos;&#x0D;&#x0A;- Original project: &apos;day05&apos;&#x0D;&#x0A;- Original element: &apos;multiex.Main03&apos;&#x0D;&#x0A;- Renamed element: &apos;multiex.Main01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main03&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;multiex{Main03.java[Main03" matchStrategy="1" name="Main01" qualified="false" references="true" similarDeclarations="false" stamp="1646872223740" textual="false" version="1.0"/>
+</session>

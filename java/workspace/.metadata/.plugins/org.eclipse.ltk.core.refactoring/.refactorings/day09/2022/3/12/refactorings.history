@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hiding.Memaber&apos; to &apos;Member&apos;&#x0D;&#x0A;- Original project: &apos;day09&apos;&#x0D;&#x0A;- Original element: &apos;hiding.Memaber&apos;&#x0D;&#x0A;- Renamed element: &apos;hiding.Member&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Memaber&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hiding{Memaber.java[Memaber" matchStrategy="1" name="Member" qualified="false" references="true" similarDeclarations="false" stamp="1647480619584" textual="false" version="1.0"/>
+</session>

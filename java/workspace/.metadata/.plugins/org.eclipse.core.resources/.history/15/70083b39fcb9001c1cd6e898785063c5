@@ -1,0 +1,9 @@
+package test2;
+
+public class Robot {
+    Robot r = new Robot();
+    r.dance();
+    r.sing();
+    r.draw();
+
+}
